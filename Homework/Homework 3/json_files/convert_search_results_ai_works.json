@@ -1,7 +1,7 @@
 {
     "meta": {
-        "count": 138407,
-        "db_response_time_ms": 357,
+        "count": 139550,
+        "db_response_time_ms": 258,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -12,7 +12,7 @@
             "doi": "https://doi.org/10.5860/choice.33-1577",
             "title": "Artificial intelligence: a modern approach",
             "display_name": "Artificial intelligence: a modern approach",
-            "relevance_score": 8610.334,
+            "relevance_score": 8529.911,
             "publication_year": 1995,
             "publication_date": "1995-11-01",
             "ids": {
@@ -809,7 +809,7 @@
             "doi": "https://doi.org/10.1016/0925-2312(95)90020-9",
             "title": "Artificial Intelligence: A Modern Approach",
             "display_name": "Artificial Intelligence: A Modern Approach",
-            "relevance_score": 5089.738,
+            "relevance_score": 5088.2803,
             "publication_year": 1995,
             "publication_date": "1995-10-01",
             "ids": {
@@ -1075,7 +1075,7 @@
             "doi": null,
             "title": "Lecture Notes in Artificial Intelligence",
             "display_name": "Lecture Notes in Artificial Intelligence",
-            "relevance_score": 5048.9688,
+            "relevance_score": 5046.7734,
             "publication_year": 1999,
             "publication_date": "1999-01-01",
             "ids": {
@@ -1283,7 +1283,7 @@
             "doi": "https://doi.org/10.1007/978-3-662-09438-9",
             "title": "Principles of Artificial Intelligence",
             "display_name": "Principles of Artificial Intelligence",
-            "relevance_score": 3571.9773,
+            "relevance_score": 3564.707,
             "publication_year": 1982,
             "publication_date": "1982-01-01",
             "ids": {
@@ -1528,9 +1528,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education",
-                    "score": 0.78
+                    "score": 0.78,
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -1614,7 +1614,7 @@
             "doi": null,
             "title": "Proceedings of the 19th International Joint Conference on Artificial Intelligence",
             "display_name": "Proceedings of the 19th International Joint Conference on Artificial Intelligence",
-            "relevance_score": 3328.1978,
+            "relevance_score": 3319.58,
             "publication_year": 2005,
             "publication_date": "2005-01-01",
             "ids": {
@@ -1897,7 +1897,7 @@
             "doi": null,
             "title": "Artificial Intelligence: A Modern Approach",
             "display_name": "Artificial Intelligence: A Modern Approach",
-            "relevance_score": 3314.7263,
+            "relevance_score": 3313.8318,
             "publication_year": 1995,
             "publication_date": "1995-01-01",
             "ids": {
@@ -3529,7 +3529,7 @@
             "doi": "https://doi.org/10.1016/0305-0548(86)90048-1",
             "title": "Future paths for integer programming and links to artificial intelligence",
             "display_name": "Future paths for integer programming and links to artificial intelligence",
-            "relevance_score": 3024.8428,
+            "relevance_score": 3023.2014,
             "publication_year": 1986,
             "publication_date": "1986-01-01",
             "ids": {
@@ -3968,9 +3968,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/9",
                     "display_name": "Industry, innovation and infrastructure",
-                    "score": 0.46
+                    "score": 0.46,
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [],
@@ -4355,7 +4355,7 @@
             "doi": null,
             "title": "Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence",
             "display_name": "Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence",
-            "relevance_score": 2940.077,
+            "relevance_score": 2939.3542,
             "publication_year": 2000,
             "publication_date": "2000-07-31",
             "ids": {
@@ -4908,7 +4908,7 @@
             "doi": null,
             "title": "Artificial Intelligence through Simulated Evolution",
             "display_name": "Artificial Intelligence through Simulated Evolution",
-            "relevance_score": 2827.0488,
+            "relevance_score": 2825.437,
             "publication_year": 1966,
             "publication_date": "1966-01-01",
             "ids": {
@@ -5211,7 +5211,7 @@
             "doi": "https://doi.org/10.1016/c2013-0-07691-8",
             "title": "The Handbook of Artificial Intelligence",
             "display_name": "The Handbook of Artificial Intelligence",
-            "relevance_score": 2820.1104,
+            "relevance_score": 2819.0193,
             "publication_year": 1982,
             "publication_date": "1982-01-01",
             "ids": {
@@ -5500,9 +5500,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education",
-                    "score": 0.85
+                    "score": 0.85,
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -5733,7 +5733,7 @@
             "doi": "https://doi.org/10.1038/s41591-018-0300-7",
             "title": "High-performance medicine: the convergence of human and artificial intelligence",
             "display_name": "High-performance medicine: the convergence of human and artificial intelligence",
-            "relevance_score": 2817.4478,
+            "relevance_score": 2815.2734,
             "publication_year": 2018,
             "publication_date": "2018-12-28",
             "ids": {
@@ -6213,9 +6213,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/8",
                     "display_name": "Decent work and economic growth",
-                    "score": 0.65
+                    "score": 0.65,
+                    "id": "https://metadata.un.org/sdg/8"
                 }
             ],
             "grants": [],
@@ -6456,7 +6456,7 @@
             "doi": "https://doi.org/10.1016/b978-0-934613-03-3.50033-7",
             "title": "Some Philosophical Problems from the Standpoint of Artificial Intelligence",
             "display_name": "Some Philosophical Problems from the Standpoint of Artificial Intelligence",
-            "relevance_score": 2774.6755,
+            "relevance_score": 2772.6633,
             "publication_year": 1981,
             "publication_date": "1981-01-01",
             "ids": {
@@ -6837,9 +6837,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education",
-                    "score": 0.43
+                    "score": 0.43,
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -7695,7 +7695,7 @@
             "doi": "https://doi.org/10.1038/s41568-018-0016-5",
             "title": "Artificial intelligence in radiology",
             "display_name": "Artificial intelligence in radiology",
-            "relevance_score": 2751.0405,
+            "relevance_score": 2759.8171,
             "publication_year": 2018,
             "publication_date": "2018-05-17",
             "ids": {
@@ -9072,7 +9072,7 @@
             "doi": null,
             "title": "Machine Learning: An Artificial Intelligence Approach",
             "display_name": "Machine Learning: An Artificial Intelligence Approach",
-            "relevance_score": 2667.8904,
+            "relevance_score": 2667.373,
             "publication_year": 2013,
             "publication_date": "2013-10-03",
             "ids": {
@@ -9416,7 +9416,7 @@
             "doi": null,
             "title": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
             "display_name": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
-            "relevance_score": 2667.2244,
+            "relevance_score": 2666.3118,
             "publication_year": 1999,
             "publication_date": "1999-02-01",
             "ids": {
@@ -9687,9 +9687,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education",
-                    "score": 0.64
+                    "score": 0.64,
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -10025,7 +10025,7 @@
             "doi": null,
             "title": "Artificial Intelligence: A Guide to Intelligent Systems",
             "display_name": "Artificial Intelligence: A Guide to Intelligent Systems",
-            "relevance_score": 2623.0457,
+            "relevance_score": 2620.876,
             "publication_year": 2001,
             "publication_date": "2001-01-01",
             "ids": {
@@ -10288,9 +10288,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/4",
                     "display_name": "Quality education",
-                    "score": 0.53
+                    "score": 0.53,
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -10821,7 +10821,7 @@
             "doi": "https://doi.org/10.1136/svn-2017-000101",
             "title": "Artificial intelligence in healthcare: past, present and future",
             "display_name": "Artificial intelligence in healthcare: past, present and future",
-            "relevance_score": 2596.6042,
+            "relevance_score": 2594.6008,
             "publication_year": 2017,
             "publication_date": "2017-06-21",
             "ids": {
@@ -12434,7 +12434,7 @@
             "doi": "https://doi.org/10.1016/0004-3702(80)90026-0",
             "title": "Principles of artificial intelligence",
             "display_name": "Principles of artificial intelligence",
-            "relevance_score": 2576.4758,
+            "relevance_score": 2575.459,
             "publication_year": 1980,
             "publication_date": "1980-11-01",
             "ids": {
@@ -12747,7 +12747,7 @@
             "doi": "https://doi.org/10.1016/j.inffus.2019.12.012",
             "title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
             "display_name": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
-            "relevance_score": 2542.915,
+            "relevance_score": 2552.4092,
             "publication_year": 2019,
             "publication_date": "2019-12-26",
             "ids": {
@@ -13179,8 +13179,8 @@
                 {
                     "author_position": "middle",
                     "author": {
-                        "id": "https://openalex.org/A5091597472",
-                        "display_name": "Raja Chatila",
+                        "id": "https://openalex.org/A5063091956",
+                        "display_name": "Rachid Alami",
                         "orcid": "https://orcid.org/0000-0001-7822-0634"
                     },
                     "institutions": [
@@ -13253,7 +13253,7 @@
             "fwci": 493.235,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 4806,
+            "cited_by_count": 4853,
             "citation_normalized_percentile": {
                 "value": 0.999973,
                 "is_in_top_1_percent": true,
@@ -13652,9 +13652,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/17",
                     "display_name": "Partnerships for the goals",
-                    "score": 0.42
+                    "score": 0.42,
+                    "id": "https://metadata.un.org/sdg/17"
                 }
             ],
             "grants": [
@@ -14991,777 +14991,46 @@
             "counts_by_year": [
                 {
                     "year": 2024,
-                    "cited_by_count": 1071
+                    "cited_by_count": 1142
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 1415
+                    "cited_by_count": 1446
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 1148
+                    "cited_by_count": 1172
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 771
+                    "cited_by_count": 853
                 },
                 {
                     "year": 2020,
-                    "cited_by_count": 184
+                    "cited_by_count": 223
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 2
+                    "cited_by_count": 3
                 },
                 {
                     "year": 2018,
                     "cited_by_count": 1
-                }
-            ],
-            "updated_date": "2024-09-24T19:15:08.832985",
-            "created_date": "2019-11-01"
-        },
-        {
-            "id": "https://openalex.org/W2120959311",
-            "doi": "https://doi.org/10.1017/s0140525x0002063x",
-            "title": "On artificial intelligence",
-            "display_name": "On artificial intelligence",
-            "relevance_score": 2537.58,
-            "publication_year": 1985,
-            "publication_date": "1985-07-01",
-            "ids": {
-                "openalex": "https://openalex.org/W2120959311",
-                "doi": "https://doi.org/10.1017/s0140525x0002063x",
-                "mag": "2120959311"
-            },
-            "language": "en",
-            "primary_location": {
-                "is_oa": false,
-                "landing_page_url": "https://doi.org/10.1017/s0140525x0002063x",
-                "pdf_url": null,
-                "source": {
-                    "id": "https://openalex.org/S59628311",
-                    "display_name": "Behavioral and Brain Sciences",
-                    "issn_l": "0140-525X",
-                    "issn": [
-                        "0140-525X",
-                        "1469-1825"
-                    ],
-                    "is_oa": false,
-                    "is_in_doaj": false,
-                    "is_core": true,
-                    "host_organization": "https://openalex.org/P4310311721",
-                    "host_organization_name": "Cambridge University Press",
-                    "host_organization_lineage": [
-                        "https://openalex.org/P4310311721",
-                        "https://openalex.org/P4310311702"
-                    ],
-                    "host_organization_lineage_names": [
-                        "Cambridge University Press",
-                        "University of Cambridge"
-                    ],
-                    "type": "journal"
-                },
-                "license": null,
-                "license_id": null,
-                "version": null,
-                "is_accepted": false,
-                "is_published": false
-            },
-            "type": "article",
-            "type_crossref": "journal-article",
-            "indexed_in": [
-                "crossref"
-            ],
-            "open_access": {
-                "is_oa": false,
-                "oa_status": "closed",
-                "oa_url": null,
-                "any_repository_has_fulltext": false
-            },
-            "authorships": [
-                {
-                    "author_position": "first",
-                    "author": {
-                        "id": "https://openalex.org/A5072458517",
-                        "display_name": "Peter H. Sch\u00f6nemann",
-                        "orcid": null
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I8204097",
-                            "display_name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
-                            "ror": "https://ror.org/05591te55",
-                            "country_code": "DE",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I8204097"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "DE"
-                    ],
-                    "is_corresponding": true,
-                    "raw_author_name": "Peter H. Sch\u00f6nemann",
-                    "raw_affiliation_strings": [
-                        "Ludwig Maximilian Universit\u00e4t, M\u00fcnchen, Federal Republic of Germany and Department of Psychological Sciences, Purdue University, West Lafayette, Ind. 47907"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "Ludwig Maximilian Universit\u00e4t, M\u00fcnchen, Federal Republic of Germany and Department of Psychological Sciences, Purdue University, West Lafayette, Ind. 47907",
-                            "institution_ids": [
-                                "https://openalex.org/I8204097"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "institution_assertions": [],
-            "countries_distinct_count": 1,
-            "institutions_distinct_count": 1,
-            "corresponding_author_ids": [
-                "https://openalex.org/A5072458517"
-            ],
-            "corresponding_institution_ids": [
-                "https://openalex.org/I8204097"
-            ],
-            "apc_list": null,
-            "apc_paid": null,
-            "fwci": 14.355,
-            "has_fulltext": false,
-            "cited_by_count": 1501,
-            "citation_normalized_percentile": {
-                "value": 0.980369,
-                "is_in_top_1_percent": false,
-                "is_in_top_10_percent": true
-            },
-            "cited_by_percentile_year": {
-                "min": 99,
-                "max": 100
-            },
-            "biblio": {
-                "volume": "8",
-                "issue": "2",
-                "first_page": "241",
-                "last_page": "242"
-            },
-            "is_retracted": false,
-            "is_paratext": false,
-            "primary_topic": {
-                "id": "https://openalex.org/T10656",
-                "display_name": "Development of Theory of Mind in Children",
-                "score": 0.97,
-                "subfield": {
-                    "id": "https://openalex.org/subfields/3204",
-                    "display_name": "Developmental and Educational Psychology"
-                },
-                "field": {
-                    "id": "https://openalex.org/fields/32",
-                    "display_name": "Psychology"
-                },
-                "domain": {
-                    "id": "https://openalex.org/domains/2",
-                    "display_name": "Social Sciences"
-                }
-            },
-            "topics": [
-                {
-                    "id": "https://openalex.org/T10656",
-                    "display_name": "Development of Theory of Mind in Children",
-                    "score": 0.97,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/3204",
-                        "display_name": "Developmental and Educational Psychology"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/32",
-                        "display_name": "Psychology"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/2",
-                        "display_name": "Social Sciences"
-                    }
-                },
-                {
-                    "id": "https://openalex.org/T11577",
-                    "display_name": "Effects of Working Memory Training on Cognitive Abilities",
-                    "score": 0.9685,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/3205",
-                        "display_name": "Experimental and Cognitive Psychology"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/32",
-                        "display_name": "Psychology"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/2",
-                        "display_name": "Social Sciences"
-                    }
-                },
-                {
-                    "id": "https://openalex.org/T12805",
-                    "display_name": "Application of Fuzzy Cognitive Maps in Modeling",
-                    "score": 0.9656,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/1702",
-                        "display_name": "Artificial Intelligence"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/17",
-                        "display_name": "Computer Science"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/3",
-                        "display_name": "Physical Sciences"
-                    }
-                }
-            ],
-            "keywords": [
-                {
-                    "id": "https://openalex.org/keywords/content",
-                    "display_name": "Content (measure theory)",
-                    "score": 0.56938064
-                },
-                {
-                    "id": "https://openalex.org/keywords/intelligence",
-                    "display_name": "Intelligence",
-                    "score": 0.487472
-                }
-            ],
-            "concepts": [
-                {
-                    "id": "https://openalex.org/C2778152352",
-                    "wikidata": "https://www.wikidata.org/wiki/Q5165061",
-                    "display_name": "Content (measure theory)",
-                    "level": 2,
-                    "score": 0.56938064
-                },
-                {
-                    "id": "https://openalex.org/C41008148",
-                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
-                    "display_name": "Computer science",
-                    "level": 0,
-                    "score": 0.5094021
-                },
-                {
-                    "id": "https://openalex.org/C154945302",
-                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
-                    "display_name": "Artificial intelligence",
-                    "level": 1,
-                    "score": 0.47237113
-                },
-                {
-                    "id": "https://openalex.org/C33923547",
-                    "wikidata": "https://www.wikidata.org/wiki/Q395",
-                    "display_name": "Mathematics",
-                    "level": 0,
-                    "score": 0.07925373
-                },
-                {
-                    "id": "https://openalex.org/C134306372",
-                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
-                    "display_name": "Mathematical analysis",
-                    "level": 1,
-                    "score": 0.0
-                }
-            ],
-            "mesh": [],
-            "locations_count": 1,
-            "locations": [
-                {
-                    "is_oa": false,
-                    "landing_page_url": "https://doi.org/10.1017/s0140525x0002063x",
-                    "pdf_url": null,
-                    "source": {
-                        "id": "https://openalex.org/S59628311",
-                        "display_name": "Behavioral and Brain Sciences",
-                        "issn_l": "0140-525X",
-                        "issn": [
-                            "0140-525X",
-                            "1469-1825"
-                        ],
-                        "is_oa": false,
-                        "is_in_doaj": false,
-                        "is_core": true,
-                        "host_organization": "https://openalex.org/P4310311721",
-                        "host_organization_name": "Cambridge University Press",
-                        "host_organization_lineage": [
-                            "https://openalex.org/P4310311721",
-                            "https://openalex.org/P4310311702"
-                        ],
-                        "host_organization_lineage_names": [
-                            "Cambridge University Press",
-                            "University of Cambridge"
-                        ],
-                        "type": "journal"
-                    },
-                    "license": null,
-                    "license_id": null,
-                    "version": null,
-                    "is_accepted": false,
-                    "is_published": false
-                }
-            ],
-            "best_oa_location": null,
-            "sustainable_development_goals": [],
-            "grants": [],
-            "datasets": [],
-            "versions": [],
-            "referenced_works_count": 295,
-            "referenced_works": [
-                "https://openalex.org/W11802270",
-                "https://openalex.org/W1433580189",
-                "https://openalex.org/W1492518088",
-                "https://openalex.org/W1502648220",
-                "https://openalex.org/W1505055959",
-                "https://openalex.org/W1505423068",
-                "https://openalex.org/W1517223648",
-                "https://openalex.org/W1529219430",
-                "https://openalex.org/W1543295419",
-                "https://openalex.org/W1554151696",
-                "https://openalex.org/W1562744790",
-                "https://openalex.org/W1569737621",
-                "https://openalex.org/W1571067654",
-                "https://openalex.org/W1584026929",
-                "https://openalex.org/W1584201476",
-                "https://openalex.org/W1591194821",
-                "https://openalex.org/W1593222164",
-                "https://openalex.org/W1606176247",
-                "https://openalex.org/W1641061656",
-                "https://openalex.org/W1708089250",
-                "https://openalex.org/W1727388",
-                "https://openalex.org/W1807517728",
-                "https://openalex.org/W1911640279",
-                "https://openalex.org/W192141071",
-                "https://openalex.org/W1943122965",
-                "https://openalex.org/W1963708886",
-                "https://openalex.org/W1966382716",
-                "https://openalex.org/W1966458378",
-                "https://openalex.org/W1966582386",
-                "https://openalex.org/W1966795782",
-                "https://openalex.org/W1967460879",
-                "https://openalex.org/W1967670055",
-                "https://openalex.org/W1967858383",
-                "https://openalex.org/W1969538188",
-                "https://openalex.org/W1969990417",
-                "https://openalex.org/W1970628873",
-                "https://openalex.org/W1972466807",
-                "https://openalex.org/W1974228602",
-                "https://openalex.org/W1974391550",
-                "https://openalex.org/W1974975426",
-                "https://openalex.org/W1976109055",
-                "https://openalex.org/W1976762962",
-                "https://openalex.org/W1979064643",
-                "https://openalex.org/W1979418603",
-                "https://openalex.org/W1979483360",
-                "https://openalex.org/W1981932104",
-                "https://openalex.org/W1982289228",
-                "https://openalex.org/W1982546242",
-                "https://openalex.org/W1984246513",
-                "https://openalex.org/W1989407988",
-                "https://openalex.org/W1991197763",
-                "https://openalex.org/W1991468460",
-                "https://openalex.org/W1992807665",
-                "https://openalex.org/W1994632455",
-                "https://openalex.org/W1995414029",
-                "https://openalex.org/W1995707219",
-                "https://openalex.org/W1995866022",
-                "https://openalex.org/W1995963765",
-                "https://openalex.org/W1996437417",
-                "https://openalex.org/W1996822169",
-                "https://openalex.org/W1998094395",
-                "https://openalex.org/W1998979735",
-                "https://openalex.org/W2000460085",
-                "https://openalex.org/W2001218189",
-                "https://openalex.org/W2001413879",
-                "https://openalex.org/W2001564915",
-                "https://openalex.org/W2002378920",
-                "https://openalex.org/W2002840518",
-                "https://openalex.org/W2003117185",
-                "https://openalex.org/W2004456204",
-                "https://openalex.org/W2004833679",
-                "https://openalex.org/W2004885016",
-                "https://openalex.org/W2006500696",
-                "https://openalex.org/W2008544186",
-                "https://openalex.org/W2010173156",
-                "https://openalex.org/W2011191549",
-                "https://openalex.org/W2011775192",
-                "https://openalex.org/W2013223286",
-                "https://openalex.org/W2013915016",
-                "https://openalex.org/W2014781793",
-                "https://openalex.org/W2015604461",
-                "https://openalex.org/W2016093300",
-                "https://openalex.org/W2016979707",
-                "https://openalex.org/W2018843105",
-                "https://openalex.org/W2019983248",
-                "https://openalex.org/W2021443926",
-                "https://openalex.org/W2021474996",
-                "https://openalex.org/W2023285011",
-                "https://openalex.org/W2023566176",
-                "https://openalex.org/W2025960463",
-                "https://openalex.org/W2026442395",
-                "https://openalex.org/W2027473728",
-                "https://openalex.org/W2028325828",
-                "https://openalex.org/W2028813389",
-                "https://openalex.org/W2028834129",
-                "https://openalex.org/W2030280458",
-                "https://openalex.org/W2030662079",
-                "https://openalex.org/W2030925186",
-                "https://openalex.org/W2030995653",
-                "https://openalex.org/W2032398756",
-                "https://openalex.org/W2033072394",
-                "https://openalex.org/W2033539212",
-                "https://openalex.org/W2033600774",
-                "https://openalex.org/W2034352872",
-                "https://openalex.org/W2034538316",
-                "https://openalex.org/W2035589025",
-                "https://openalex.org/W2036161103",
-                "https://openalex.org/W2036442674",
-                "https://openalex.org/W2036688983",
-                "https://openalex.org/W2036978418",
-                "https://openalex.org/W2037658222",
-                "https://openalex.org/W2037736740",
-                "https://openalex.org/W2041465237",
-                "https://openalex.org/W2042306717",
-                "https://openalex.org/W2042527200",
-                "https://openalex.org/W2042893627",
-                "https://openalex.org/W2043390904",
-                "https://openalex.org/W2043796145",
-                "https://openalex.org/W2044616590",
-                "https://openalex.org/W2044781828",
-                "https://openalex.org/W2044819204",
-                "https://openalex.org/W2045579655",
-                "https://openalex.org/W2049492907",
-                "https://openalex.org/W2049970274",
-                "https://openalex.org/W2051723333",
-                "https://openalex.org/W2052617402",
-                "https://openalex.org/W2053143628",
-                "https://openalex.org/W2056773219",
-                "https://openalex.org/W2056793761",
-                "https://openalex.org/W2057769766",
-                "https://openalex.org/W2058653372",
-                "https://openalex.org/W2059287484",
-                "https://openalex.org/W2060825526",
-                "https://openalex.org/W2061824235",
-                "https://openalex.org/W2063330161",
-                "https://openalex.org/W2063380534",
-                "https://openalex.org/W2064222586",
-                "https://openalex.org/W2066129744",
-                "https://openalex.org/W2066340476",
-                "https://openalex.org/W2066687643",
-                "https://openalex.org/W2068524195",
-                "https://openalex.org/W2069182223",
-                "https://openalex.org/W2072175959",
-                "https://openalex.org/W2072590590",
-                "https://openalex.org/W2072612351",
-                "https://openalex.org/W2073726721",
-                "https://openalex.org/W2074197763",
-                "https://openalex.org/W2075639247",
-                "https://openalex.org/W2076132597",
-                "https://openalex.org/W2077589637",
-                "https://openalex.org/W2078522484",
-                "https://openalex.org/W2078903920",
-                "https://openalex.org/W2079261568",
-                "https://openalex.org/W2079354092",
-                "https://openalex.org/W2079724749",
-                "https://openalex.org/W2080266085",
-                "https://openalex.org/W2080863033",
-                "https://openalex.org/W2081192857",
-                "https://openalex.org/W2081906223",
-                "https://openalex.org/W2081975242",
-                "https://openalex.org/W2082324687",
-                "https://openalex.org/W2082532270",
-                "https://openalex.org/W2083072021",
-                "https://openalex.org/W2084123142",
-                "https://openalex.org/W2084536387",
-                "https://openalex.org/W2085541357",
-                "https://openalex.org/W2086136810",
-                "https://openalex.org/W2087143229",
-                "https://openalex.org/W2088226858",
-                "https://openalex.org/W2088963425",
-                "https://openalex.org/W2089956320",
-                "https://openalex.org/W2090832894",
-                "https://openalex.org/W2090879855",
-                "https://openalex.org/W2090945425",
-                "https://openalex.org/W2091785129",
-                "https://openalex.org/W2092860397",
-                "https://openalex.org/W2093349432",
-                "https://openalex.org/W2093736549",
-                "https://openalex.org/W2094142183",
-                "https://openalex.org/W2094757952",
-                "https://openalex.org/W2095300824",
-                "https://openalex.org/W2097960062",
-                "https://openalex.org/W2098253373",
-                "https://openalex.org/W209852715",
-                "https://openalex.org/W2099100072",
-                "https://openalex.org/W2101253926",
-                "https://openalex.org/W2102812780",
-                "https://openalex.org/W210440964",
-                "https://openalex.org/W2106654511",
-                "https://openalex.org/W2109393125",
-                "https://openalex.org/W2110604640",
-                "https://openalex.org/W2110695559",
-                "https://openalex.org/W2111056827",
-                "https://openalex.org/W2114682620",
-                "https://openalex.org/W2114969245",
-                "https://openalex.org/W2122711981",
-                "https://openalex.org/W2124246571",
-                "https://openalex.org/W2126443966",
-                "https://openalex.org/W2130857820",
-                "https://openalex.org/W2133487567",
-                "https://openalex.org/W2138660081",
-                "https://openalex.org/W2146455911",
-                "https://openalex.org/W2147611572",
-                "https://openalex.org/W2152768238",
-                "https://openalex.org/W2154866381",
-                "https://openalex.org/W2160051537",
-                "https://openalex.org/W2160646495",
-                "https://openalex.org/W2164176362",
-                "https://openalex.org/W2167196634",
-                "https://openalex.org/W2167699898",
-                "https://openalex.org/W2175267570",
-                "https://openalex.org/W2175976846",
-                "https://openalex.org/W22297218",
-                "https://openalex.org/W2289663967",
-                "https://openalex.org/W2294707423",
-                "https://openalex.org/W2315371606",
-                "https://openalex.org/W2317543039",
-                "https://openalex.org/W2319181985",
-                "https://openalex.org/W2321034510",
-                "https://openalex.org/W2325315769",
-                "https://openalex.org/W2330656557",
-                "https://openalex.org/W2330872411",
-                "https://openalex.org/W2332626551",
-                "https://openalex.org/W2333019117",
-                "https://openalex.org/W2334317301",
-                "https://openalex.org/W2335487254",
-                "https://openalex.org/W235193744",
-                "https://openalex.org/W2395649522",
-                "https://openalex.org/W2408691482",
-                "https://openalex.org/W2417132907",
-                "https://openalex.org/W2473837822",
-                "https://openalex.org/W2486330806",
-                "https://openalex.org/W2488980999",
-                "https://openalex.org/W2595426508",
-                "https://openalex.org/W2730552986",
-                "https://openalex.org/W2796742264",
-                "https://openalex.org/W2898010231",
-                "https://openalex.org/W2979645091",
-                "https://openalex.org/W3022353958",
-                "https://openalex.org/W3026302707",
-                "https://openalex.org/W335506602",
-                "https://openalex.org/W366471779",
-                "https://openalex.org/W388896309",
-                "https://openalex.org/W4205173836",
-                "https://openalex.org/W4210580293",
-                "https://openalex.org/W4210588318",
-                "https://openalex.org/W4210606146",
-                "https://openalex.org/W4230744782",
-                "https://openalex.org/W4235487258",
-                "https://openalex.org/W4236088433",
-                "https://openalex.org/W4240092712",
-                "https://openalex.org/W4241250927",
-                "https://openalex.org/W4245106164",
-                "https://openalex.org/W4245456376",
-                "https://openalex.org/W4245562821",
-                "https://openalex.org/W4248680456",
-                "https://openalex.org/W4249911376",
-                "https://openalex.org/W4251718846",
-                "https://openalex.org/W4251731575",
-                "https://openalex.org/W4253404747",
-                "https://openalex.org/W4254789529",
-                "https://openalex.org/W4255262582",
-                "https://openalex.org/W4285719527",
-                "https://openalex.org/W4297665025",
-                "https://openalex.org/W4300999620",
-                "https://openalex.org/W4301215780",
-                "https://openalex.org/W43974047",
-                "https://openalex.org/W4399219967",
-                "https://openalex.org/W45937682",
-                "https://openalex.org/W563203121",
-                "https://openalex.org/W563544094",
-                "https://openalex.org/W574356050",
-                "https://openalex.org/W574450381",
-                "https://openalex.org/W575497407",
-                "https://openalex.org/W581506536",
-                "https://openalex.org/W583184772",
-                "https://openalex.org/W586119298",
-                "https://openalex.org/W593759697",
-                "https://openalex.org/W595396556",
-                "https://openalex.org/W596546807",
-                "https://openalex.org/W597039932",
-                "https://openalex.org/W603727688",
-                "https://openalex.org/W608038899",
-                "https://openalex.org/W608175455",
-                "https://openalex.org/W616483852",
-                "https://openalex.org/W617506509",
-                "https://openalex.org/W629868326",
-                "https://openalex.org/W630524321",
-                "https://openalex.org/W648640094",
-                "https://openalex.org/W653088175",
-                "https://openalex.org/W653649757",
-                "https://openalex.org/W655347354",
-                "https://openalex.org/W655464054",
-                "https://openalex.org/W656106900",
-                "https://openalex.org/W94142770"
-            ],
-            "related_works": [
-                "https://openalex.org/W4391913857",
-                "https://openalex.org/W2748952813",
-                "https://openalex.org/W2530322880",
-                "https://openalex.org/W2478288626",
-                "https://openalex.org/W2390279801",
-                "https://openalex.org/W2382290278",
-                "https://openalex.org/W2376932109",
-                "https://openalex.org/W2358668433",
-                "https://openalex.org/W2350741829",
-                "https://openalex.org/W2001405890"
-            ],
-            "abstract_inverted_index": {
-                "An": [
-                    0
-                ],
-                "abstract": [
-                    1
-                ],
-                "is": [
-                    2
-                ],
-                "not": [
-                    3
-                ],
-                "available": [
-                    4
-                ],
-                "for": [
-                    5,
-                    21
-                ],
-                "this": [
-                    6,
-                    27
-                ],
-                "content": [
-                    7
-                ],
-                "so": [
-                    8
-                ],
-                "a": [
-                    9
-                ],
-                "preview": [
-                    10
-                ],
-                "has": [
-                    11
-                ],
-                "been": [
-                    12
-                ],
-                "provided.": [
-                    13
-                ],
-                "Please": [
-                    14
-                ],
-                "use": [
-                    15
-                ],
-                "the": [
-                    16
-                ],
-                "Get": [
-                    17
-                ],
-                "access": [
-                    18,
-                    26
-                ],
-                "link": [
-                    19
-                ],
-                "above": [
-                    20
-                ],
-                "information": [
-                    22
-                ],
-                "on": [
-                    23
-                ],
-                "how": [
-                    24
-                ],
-                "to": [
-                    25
-                ],
-                "content.": [
-                    28
-                ]
-            },
-            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2120959311",
-            "counts_by_year": [
-                {
-                    "year": 2024,
-                    "cited_by_count": 8
-                },
-                {
-                    "year": 2023,
-                    "cited_by_count": 11
-                },
-                {
-                    "year": 2022,
-                    "cited_by_count": 1
-                },
-                {
-                    "year": 2021,
-                    "cited_by_count": 3
-                },
-                {
-                    "year": 2020,
-                    "cited_by_count": 2
-                },
-                {
-                    "year": 2018,
-                    "cited_by_count": 3
-                },
-                {
-                    "year": 2017,
-                    "cited_by_count": 4
-                },
-                {
-                    "year": 2016,
-                    "cited_by_count": 5
-                },
-                {
-                    "year": 2015,
-                    "cited_by_count": 20
                 },
                 {
                     "year": 2014,
-                    "cited_by_count": 38
-                },
-                {
-                    "year": 2013,
-                    "cited_by_count": 37
-                },
-                {
-                    "year": 2012,
-                    "cited_by_count": 37
+                    "cited_by_count": 1
                 }
             ],
-            "updated_date": "2024-09-16T22:33:17.088518",
-            "created_date": "2016-06-24"
+            "updated_date": "2024-09-30T21:09:52.099880",
+            "created_date": "2019-11-01"
         },
         {
             "id": "https://openalex.org/W2963095307",
             "doi": "https://doi.org/10.1016/j.artint.2018.07.007",
             "title": "Explanation in artificial intelligence: Insights from the social sciences",
             "display_name": "Explanation in artificial intelligence: Insights from the social sciences",
-            "relevance_score": 2530.4407,
+            "relevance_score": 2528.2246,
             "publication_year": 2018,
             "publication_date": "2018-10-27",
             "ids": {
@@ -16909,11 +16178,746 @@
             "created_date": "2019-07-30"
         },
         {
+            "id": "https://openalex.org/W2120959311",
+            "doi": "https://doi.org/10.1017/s0140525x0002063x",
+            "title": "On artificial intelligence",
+            "display_name": "On artificial intelligence",
+            "relevance_score": 2519.3325,
+            "publication_year": 1985,
+            "publication_date": "1985-07-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2120959311",
+                "doi": "https://doi.org/10.1017/s0140525x0002063x",
+                "mag": "2120959311"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1017/s0140525x0002063x",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S59628311",
+                    "display_name": "Behavioral and Brain Sciences",
+                    "issn_l": "0140-525X",
+                    "issn": [
+                        "0140-525X",
+                        "1469-1825"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310311721",
+                    "host_organization_name": "Cambridge University Press",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310311721",
+                        "https://openalex.org/P4310311702"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cambridge University Press",
+                        "University of Cambridge"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5072458517",
+                        "display_name": "Peter H. Sch\u00f6nemann",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I8204097",
+                            "display_name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+                            "ror": "https://ror.org/05591te55",
+                            "country_code": "DE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I8204097"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Peter H. Sch\u00f6nemann",
+                    "raw_affiliation_strings": [
+                        "Ludwig Maximilian Universit\u00e4t, M\u00fcnchen, Federal Republic of Germany and Department of Psychological Sciences, Purdue University, West Lafayette, Ind. 47907"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Ludwig Maximilian Universit\u00e4t, M\u00fcnchen, Federal Republic of Germany and Department of Psychological Sciences, Purdue University, West Lafayette, Ind. 47907",
+                            "institution_ids": [
+                                "https://openalex.org/I8204097"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5072458517"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I8204097"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 14.355,
+            "has_fulltext": false,
+            "cited_by_count": 1481,
+            "citation_normalized_percentile": {
+                "value": 0.980369,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 99,
+                "max": 100
+            },
+            "biblio": {
+                "volume": "8",
+                "issue": "2",
+                "first_page": "241",
+                "last_page": "242"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10656",
+                "display_name": "Development of Theory of Mind in Children",
+                "score": 0.97,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/3204",
+                    "display_name": "Developmental and Educational Psychology"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/32",
+                    "display_name": "Psychology"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/2",
+                    "display_name": "Social Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10656",
+                    "display_name": "Development of Theory of Mind in Children",
+                    "score": 0.97,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3204",
+                        "display_name": "Developmental and Educational Psychology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/32",
+                        "display_name": "Psychology"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11577",
+                    "display_name": "Effects of Working Memory Training on Cognitive Abilities",
+                    "score": 0.9685,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3205",
+                        "display_name": "Experimental and Cognitive Psychology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/32",
+                        "display_name": "Psychology"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12805",
+                    "display_name": "Application of Fuzzy Cognitive Maps in Modeling",
+                    "score": 0.9656,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/content",
+                    "display_name": "Content (measure theory)",
+                    "score": 0.56938064
+                },
+                {
+                    "id": "https://openalex.org/keywords/intelligence",
+                    "display_name": "Intelligence",
+                    "score": 0.487472
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778152352",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5165061",
+                    "display_name": "Content (measure theory)",
+                    "level": 2,
+                    "score": 0.56938064
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.5094021
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.47237113
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.07925373
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1017/s0140525x0002063x",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S59628311",
+                        "display_name": "Behavioral and Brain Sciences",
+                        "issn_l": "0140-525X",
+                        "issn": [
+                            "0140-525X",
+                            "1469-1825"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310311721",
+                        "host_organization_name": "Cambridge University Press",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310311721",
+                            "https://openalex.org/P4310311702"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cambridge University Press",
+                            "University of Cambridge"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 295,
+            "referenced_works": [
+                "https://openalex.org/W11802270",
+                "https://openalex.org/W1433580189",
+                "https://openalex.org/W1492518088",
+                "https://openalex.org/W1502648220",
+                "https://openalex.org/W1505055959",
+                "https://openalex.org/W1505423068",
+                "https://openalex.org/W1517223648",
+                "https://openalex.org/W1529219430",
+                "https://openalex.org/W1543295419",
+                "https://openalex.org/W1554151696",
+                "https://openalex.org/W1562744790",
+                "https://openalex.org/W1569737621",
+                "https://openalex.org/W1571067654",
+                "https://openalex.org/W1584026929",
+                "https://openalex.org/W1584201476",
+                "https://openalex.org/W1591194821",
+                "https://openalex.org/W1593222164",
+                "https://openalex.org/W1606176247",
+                "https://openalex.org/W1641061656",
+                "https://openalex.org/W1708089250",
+                "https://openalex.org/W1727388",
+                "https://openalex.org/W1807517728",
+                "https://openalex.org/W1911640279",
+                "https://openalex.org/W192141071",
+                "https://openalex.org/W1943122965",
+                "https://openalex.org/W1963708886",
+                "https://openalex.org/W1966382716",
+                "https://openalex.org/W1966458378",
+                "https://openalex.org/W1966582386",
+                "https://openalex.org/W1966795782",
+                "https://openalex.org/W1967460879",
+                "https://openalex.org/W1967670055",
+                "https://openalex.org/W1967858383",
+                "https://openalex.org/W1969538188",
+                "https://openalex.org/W1969990417",
+                "https://openalex.org/W1970628873",
+                "https://openalex.org/W1972466807",
+                "https://openalex.org/W1974228602",
+                "https://openalex.org/W1974391550",
+                "https://openalex.org/W1974975426",
+                "https://openalex.org/W1976109055",
+                "https://openalex.org/W1976762962",
+                "https://openalex.org/W1979064643",
+                "https://openalex.org/W1979418603",
+                "https://openalex.org/W1979483360",
+                "https://openalex.org/W1981932104",
+                "https://openalex.org/W1982289228",
+                "https://openalex.org/W1982546242",
+                "https://openalex.org/W1984246513",
+                "https://openalex.org/W1989407988",
+                "https://openalex.org/W1991197763",
+                "https://openalex.org/W1991468460",
+                "https://openalex.org/W1992807665",
+                "https://openalex.org/W1994632455",
+                "https://openalex.org/W1995414029",
+                "https://openalex.org/W1995707219",
+                "https://openalex.org/W1995866022",
+                "https://openalex.org/W1995963765",
+                "https://openalex.org/W1996437417",
+                "https://openalex.org/W1996822169",
+                "https://openalex.org/W1998094395",
+                "https://openalex.org/W1998979735",
+                "https://openalex.org/W2000460085",
+                "https://openalex.org/W2001218189",
+                "https://openalex.org/W2001413879",
+                "https://openalex.org/W2001564915",
+                "https://openalex.org/W2002378920",
+                "https://openalex.org/W2002840518",
+                "https://openalex.org/W2003117185",
+                "https://openalex.org/W2004456204",
+                "https://openalex.org/W2004833679",
+                "https://openalex.org/W2004885016",
+                "https://openalex.org/W2006500696",
+                "https://openalex.org/W2008544186",
+                "https://openalex.org/W2010173156",
+                "https://openalex.org/W2011191549",
+                "https://openalex.org/W2011775192",
+                "https://openalex.org/W2013223286",
+                "https://openalex.org/W2013915016",
+                "https://openalex.org/W2014781793",
+                "https://openalex.org/W2015604461",
+                "https://openalex.org/W2016093300",
+                "https://openalex.org/W2016979707",
+                "https://openalex.org/W2018843105",
+                "https://openalex.org/W2019983248",
+                "https://openalex.org/W2021443926",
+                "https://openalex.org/W2021474996",
+                "https://openalex.org/W2023285011",
+                "https://openalex.org/W2023566176",
+                "https://openalex.org/W2025960463",
+                "https://openalex.org/W2026442395",
+                "https://openalex.org/W2027473728",
+                "https://openalex.org/W2028325828",
+                "https://openalex.org/W2028813389",
+                "https://openalex.org/W2028834129",
+                "https://openalex.org/W2030280458",
+                "https://openalex.org/W2030662079",
+                "https://openalex.org/W2030925186",
+                "https://openalex.org/W2030995653",
+                "https://openalex.org/W2032398756",
+                "https://openalex.org/W2033072394",
+                "https://openalex.org/W2033539212",
+                "https://openalex.org/W2033600774",
+                "https://openalex.org/W2034352872",
+                "https://openalex.org/W2034538316",
+                "https://openalex.org/W2035589025",
+                "https://openalex.org/W2036161103",
+                "https://openalex.org/W2036442674",
+                "https://openalex.org/W2036688983",
+                "https://openalex.org/W2036978418",
+                "https://openalex.org/W2037658222",
+                "https://openalex.org/W2037736740",
+                "https://openalex.org/W2041465237",
+                "https://openalex.org/W2042306717",
+                "https://openalex.org/W2042527200",
+                "https://openalex.org/W2042893627",
+                "https://openalex.org/W2043390904",
+                "https://openalex.org/W2043796145",
+                "https://openalex.org/W2044616590",
+                "https://openalex.org/W2044781828",
+                "https://openalex.org/W2044819204",
+                "https://openalex.org/W2045579655",
+                "https://openalex.org/W2049492907",
+                "https://openalex.org/W2049970274",
+                "https://openalex.org/W2051723333",
+                "https://openalex.org/W2052617402",
+                "https://openalex.org/W2053143628",
+                "https://openalex.org/W2056773219",
+                "https://openalex.org/W2056793761",
+                "https://openalex.org/W2057769766",
+                "https://openalex.org/W2058653372",
+                "https://openalex.org/W2059287484",
+                "https://openalex.org/W2060825526",
+                "https://openalex.org/W2061824235",
+                "https://openalex.org/W2063330161",
+                "https://openalex.org/W2063380534",
+                "https://openalex.org/W2064222586",
+                "https://openalex.org/W2066129744",
+                "https://openalex.org/W2066340476",
+                "https://openalex.org/W2066687643",
+                "https://openalex.org/W2068524195",
+                "https://openalex.org/W2069182223",
+                "https://openalex.org/W2072175959",
+                "https://openalex.org/W2072590590",
+                "https://openalex.org/W2072612351",
+                "https://openalex.org/W2073726721",
+                "https://openalex.org/W2074197763",
+                "https://openalex.org/W2075639247",
+                "https://openalex.org/W2076132597",
+                "https://openalex.org/W2077589637",
+                "https://openalex.org/W2078522484",
+                "https://openalex.org/W2078903920",
+                "https://openalex.org/W2079261568",
+                "https://openalex.org/W2079354092",
+                "https://openalex.org/W2079724749",
+                "https://openalex.org/W2080266085",
+                "https://openalex.org/W2080863033",
+                "https://openalex.org/W2081192857",
+                "https://openalex.org/W2081906223",
+                "https://openalex.org/W2081975242",
+                "https://openalex.org/W2082324687",
+                "https://openalex.org/W2082532270",
+                "https://openalex.org/W2083072021",
+                "https://openalex.org/W2084123142",
+                "https://openalex.org/W2084536387",
+                "https://openalex.org/W2085541357",
+                "https://openalex.org/W2086136810",
+                "https://openalex.org/W2087143229",
+                "https://openalex.org/W2088226858",
+                "https://openalex.org/W2088963425",
+                "https://openalex.org/W2089956320",
+                "https://openalex.org/W2090832894",
+                "https://openalex.org/W2090879855",
+                "https://openalex.org/W2090945425",
+                "https://openalex.org/W2091785129",
+                "https://openalex.org/W2092860397",
+                "https://openalex.org/W2093349432",
+                "https://openalex.org/W2093736549",
+                "https://openalex.org/W2094142183",
+                "https://openalex.org/W2094757952",
+                "https://openalex.org/W2095300824",
+                "https://openalex.org/W2097960062",
+                "https://openalex.org/W2098253373",
+                "https://openalex.org/W209852715",
+                "https://openalex.org/W2099100072",
+                "https://openalex.org/W2101253926",
+                "https://openalex.org/W2102812780",
+                "https://openalex.org/W210440964",
+                "https://openalex.org/W2106654511",
+                "https://openalex.org/W2109393125",
+                "https://openalex.org/W2110604640",
+                "https://openalex.org/W2110695559",
+                "https://openalex.org/W2111056827",
+                "https://openalex.org/W2114682620",
+                "https://openalex.org/W2114969245",
+                "https://openalex.org/W2122711981",
+                "https://openalex.org/W2124246571",
+                "https://openalex.org/W2126443966",
+                "https://openalex.org/W2130857820",
+                "https://openalex.org/W2133487567",
+                "https://openalex.org/W2138660081",
+                "https://openalex.org/W2146455911",
+                "https://openalex.org/W2147611572",
+                "https://openalex.org/W2152768238",
+                "https://openalex.org/W2154866381",
+                "https://openalex.org/W2160051537",
+                "https://openalex.org/W2160646495",
+                "https://openalex.org/W2164176362",
+                "https://openalex.org/W2167196634",
+                "https://openalex.org/W2167699898",
+                "https://openalex.org/W2175267570",
+                "https://openalex.org/W2175976846",
+                "https://openalex.org/W22297218",
+                "https://openalex.org/W2289663967",
+                "https://openalex.org/W2294707423",
+                "https://openalex.org/W2315371606",
+                "https://openalex.org/W2317543039",
+                "https://openalex.org/W2319181985",
+                "https://openalex.org/W2321034510",
+                "https://openalex.org/W2325315769",
+                "https://openalex.org/W2330656557",
+                "https://openalex.org/W2330872411",
+                "https://openalex.org/W2332626551",
+                "https://openalex.org/W2333019117",
+                "https://openalex.org/W2334317301",
+                "https://openalex.org/W2335487254",
+                "https://openalex.org/W235193744",
+                "https://openalex.org/W2395649522",
+                "https://openalex.org/W2408691482",
+                "https://openalex.org/W2417132907",
+                "https://openalex.org/W2473837822",
+                "https://openalex.org/W2486330806",
+                "https://openalex.org/W2488980999",
+                "https://openalex.org/W2595426508",
+                "https://openalex.org/W2730552986",
+                "https://openalex.org/W2796742264",
+                "https://openalex.org/W2898010231",
+                "https://openalex.org/W2979645091",
+                "https://openalex.org/W3022353958",
+                "https://openalex.org/W3026302707",
+                "https://openalex.org/W335506602",
+                "https://openalex.org/W366471779",
+                "https://openalex.org/W388896309",
+                "https://openalex.org/W4205173836",
+                "https://openalex.org/W4210580293",
+                "https://openalex.org/W4210588318",
+                "https://openalex.org/W4210606146",
+                "https://openalex.org/W4230744782",
+                "https://openalex.org/W4235487258",
+                "https://openalex.org/W4236088433",
+                "https://openalex.org/W4240092712",
+                "https://openalex.org/W4241250927",
+                "https://openalex.org/W4245106164",
+                "https://openalex.org/W4245456376",
+                "https://openalex.org/W4245562821",
+                "https://openalex.org/W4248680456",
+                "https://openalex.org/W4249911376",
+                "https://openalex.org/W4251718846",
+                "https://openalex.org/W4251731575",
+                "https://openalex.org/W4253404747",
+                "https://openalex.org/W4254789529",
+                "https://openalex.org/W4255262582",
+                "https://openalex.org/W4285719527",
+                "https://openalex.org/W4297665025",
+                "https://openalex.org/W4300999620",
+                "https://openalex.org/W4301215780",
+                "https://openalex.org/W43974047",
+                "https://openalex.org/W4399219967",
+                "https://openalex.org/W45937682",
+                "https://openalex.org/W563203121",
+                "https://openalex.org/W563544094",
+                "https://openalex.org/W574356050",
+                "https://openalex.org/W574450381",
+                "https://openalex.org/W575497407",
+                "https://openalex.org/W581506536",
+                "https://openalex.org/W583184772",
+                "https://openalex.org/W586119298",
+                "https://openalex.org/W593759697",
+                "https://openalex.org/W595396556",
+                "https://openalex.org/W596546807",
+                "https://openalex.org/W597039932",
+                "https://openalex.org/W603727688",
+                "https://openalex.org/W608038899",
+                "https://openalex.org/W608175455",
+                "https://openalex.org/W616483852",
+                "https://openalex.org/W617506509",
+                "https://openalex.org/W629868326",
+                "https://openalex.org/W630524321",
+                "https://openalex.org/W648640094",
+                "https://openalex.org/W653088175",
+                "https://openalex.org/W653649757",
+                "https://openalex.org/W655347354",
+                "https://openalex.org/W655464054",
+                "https://openalex.org/W656106900",
+                "https://openalex.org/W94142770"
+            ],
+            "related_works": [
+                "https://openalex.org/W4391913857",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2530322880",
+                "https://openalex.org/W2478288626",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2350741829",
+                "https://openalex.org/W2001405890"
+            ],
+            "abstract_inverted_index": {
+                "An": [
+                    0
+                ],
+                "abstract": [
+                    1
+                ],
+                "is": [
+                    2
+                ],
+                "not": [
+                    3
+                ],
+                "available": [
+                    4
+                ],
+                "for": [
+                    5,
+                    21
+                ],
+                "this": [
+                    6,
+                    27
+                ],
+                "content": [
+                    7
+                ],
+                "so": [
+                    8
+                ],
+                "a": [
+                    9
+                ],
+                "preview": [
+                    10
+                ],
+                "has": [
+                    11
+                ],
+                "been": [
+                    12
+                ],
+                "provided.": [
+                    13
+                ],
+                "Please": [
+                    14
+                ],
+                "use": [
+                    15
+                ],
+                "the": [
+                    16
+                ],
+                "Get": [
+                    17
+                ],
+                "access": [
+                    18,
+                    26
+                ],
+                "link": [
+                    19
+                ],
+                "above": [
+                    20
+                ],
+                "information": [
+                    22
+                ],
+                "on": [
+                    23
+                ],
+                "how": [
+                    24
+                ],
+                "to": [
+                    25
+                ],
+                "content.": [
+                    28
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2120959311",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 10
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 13
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 15
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 32
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 34
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 34
+                }
+            ],
+            "updated_date": "2024-10-01T01:06:36.050855",
+            "created_date": "2016-06-24"
+        },
+        {
             "id": "https://openalex.org/W2891503716",
             "doi": "https://doi.org/10.1109/access.2018.2870052",
             "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
             "display_name": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-            "relevance_score": 2496.8516,
+            "relevance_score": 2495.1223,
             "publication_year": 2018,
             "publication_date": "2018-01-01",
             "ids": {
@@ -18042,7 +18046,7 @@
             "doi": "https://doi.org/10.1016/c2013-0-12606-2",
             "title": "Uncertainty in Artificial Intelligence",
             "display_name": "Uncertainty in Artificial Intelligence",
-            "relevance_score": 2447.9028,
+            "relevance_score": 2446.588,
             "publication_year": 1992,
             "publication_date": "1992-01-01",
             "ids": {
@@ -19261,7 +19265,7 @@
             "doi": "https://doi.org/10.1177/1094670517752459",
             "title": "Artificial Intelligence in Service",
             "display_name": "Artificial Intelligence in Service",
-            "relevance_score": 2416.9485,
+            "relevance_score": 2415.5193,
             "publication_year": 2018,
             "publication_date": "2018-02-05",
             "ids": {
@@ -19659,9 +19663,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "id": "https://metadata.un.org/sdg/8",
                     "display_name": "Decent work and economic growth",
-                    "score": 0.57
+                    "score": 0.57,
+                    "id": "https://metadata.un.org/sdg/8"
                 }
             ],
             "grants": [
@@ -20302,7 +20306,7 @@
             "doi": "https://doi.org/10.7861/futurehosp.6-2-94",
             "title": "The potential for artificial intelligence in healthcare",
             "display_name": "The potential for artificial intelligence in healthcare",
-            "relevance_score": 2374.9822,
+            "relevance_score": 2371.8403,
             "publication_year": 2019,
             "publication_date": "2019-06-01",
             "ids": {
