@@ -1,7 +1,7 @@
 {
     "meta": {
-        "count": 139550,
-        "db_response_time_ms": 258,
+        "count": 139689,
+        "db_response_time_ms": 176,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -12,7 +12,7 @@
             "doi": "https://doi.org/10.5860/choice.33-1577",
             "title": "Artificial intelligence: a modern approach",
             "display_name": "Artificial intelligence: a modern approach",
-            "relevance_score": 8529.911,
+            "relevance_score": 8641.057,
             "publication_year": 1995,
             "publication_date": "1995-11-01",
             "ids": {
@@ -160,7 +160,7 @@
             "apc_paid": null,
             "fwci": 29.268,
             "has_fulltext": false,
-            "cited_by_count": 21317,
+            "cited_by_count": 21917,
             "citation_normalized_percentile": {
                 "value": 0.999879,
                 "is_in_top_1_percent": true,
@@ -750,58 +750,58 @@
             "counts_by_year": [
                 {
                     "year": 2024,
-                    "cited_by_count": 211
+                    "cited_by_count": 567
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 328
+                    "cited_by_count": 708
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 184
+                    "cited_by_count": 562
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 1057
+                    "cited_by_count": 1330
                 },
                 {
                     "year": 2020,
-                    "cited_by_count": 1088
+                    "cited_by_count": 1407
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 952
+                    "cited_by_count": 1239
                 },
                 {
                     "year": 2018,
-                    "cited_by_count": 714
+                    "cited_by_count": 932
                 },
                 {
                     "year": 2017,
-                    "cited_by_count": 552
+                    "cited_by_count": 745
                 },
                 {
                     "year": 2016,
-                    "cited_by_count": 750
+                    "cited_by_count": 864
                 },
                 {
                     "year": 2015,
-                    "cited_by_count": 981
+                    "cited_by_count": 991
                 },
                 {
                     "year": 2014,
-                    "cited_by_count": 1033
+                    "cited_by_count": 1137
                 },
                 {
                     "year": 2013,
-                    "cited_by_count": 1072
+                    "cited_by_count": 1130
                 },
                 {
                     "year": 2012,
-                    "cited_by_count": 1087
+                    "cited_by_count": 1189
                 }
             ],
-            "updated_date": "2024-09-18T16:55:38.844129",
+            "updated_date": "2024-10-02T10:52:39.397192",
             "created_date": "2016-06-24"
         },
         {
@@ -809,7 +809,7 @@
             "doi": "https://doi.org/10.1016/0925-2312(95)90020-9",
             "title": "Artificial Intelligence: A Modern Approach",
             "display_name": "Artificial Intelligence: A Modern Approach",
-            "relevance_score": 5088.2803,
+            "relevance_score": 5086.4844,
             "publication_year": 1995,
             "publication_date": "1995-10-01",
             "ids": {
@@ -1075,7 +1075,7 @@
             "doi": null,
             "title": "Lecture Notes in Artificial Intelligence",
             "display_name": "Lecture Notes in Artificial Intelligence",
-            "relevance_score": 5046.7734,
+            "relevance_score": 5043.8945,
             "publication_year": 1999,
             "publication_date": "1999-01-01",
             "ids": {
@@ -1283,7 +1283,7 @@
             "doi": "https://doi.org/10.1007/978-3-662-09438-9",
             "title": "Principles of Artificial Intelligence",
             "display_name": "Principles of Artificial Intelligence",
-            "relevance_score": 3564.707,
+            "relevance_score": 3561.5156,
             "publication_year": 1982,
             "publication_date": "1982-01-01",
             "ids": {
@@ -1528,9 +1528,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.78,
-                    "id": "https://metadata.un.org/sdg/4"
+                    "display_name": "Quality education"
                 }
             ],
             "grants": [],
@@ -1614,7 +1614,7 @@
             "doi": null,
             "title": "Proceedings of the 19th International Joint Conference on Artificial Intelligence",
             "display_name": "Proceedings of the 19th International Joint Conference on Artificial Intelligence",
-            "relevance_score": 3319.58,
+            "relevance_score": 3316.9446,
             "publication_year": 2005,
             "publication_date": "2005-01-01",
             "ids": {
@@ -1897,7 +1897,7 @@
             "doi": null,
             "title": "Artificial Intelligence: A Modern Approach",
             "display_name": "Artificial Intelligence: A Modern Approach",
-            "relevance_score": 3313.8318,
+            "relevance_score": 3311.3032,
             "publication_year": 1995,
             "publication_date": "1995-01-01",
             "ids": {
@@ -3529,7 +3529,7 @@
             "doi": "https://doi.org/10.1016/0305-0548(86)90048-1",
             "title": "Future paths for integer programming and links to artificial intelligence",
             "display_name": "Future paths for integer programming and links to artificial intelligence",
-            "relevance_score": 3023.2014,
+            "relevance_score": 3020.7717,
             "publication_year": 1986,
             "publication_date": "1986-01-01",
             "ids": {
@@ -3968,9 +3968,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9",
                     "score": 0.46,
-                    "id": "https://metadata.un.org/sdg/9"
+                    "display_name": "Industry, innovation and infrastructure"
                 }
             ],
             "grants": [],
@@ -4355,7 +4355,7 @@
             "doi": null,
             "title": "Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence",
             "display_name": "Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence",
-            "relevance_score": 2939.3542,
+            "relevance_score": 2936.8403,
             "publication_year": 2000,
             "publication_date": "2000-07-31",
             "ids": {
@@ -4908,7 +4908,7 @@
             "doi": null,
             "title": "Artificial Intelligence through Simulated Evolution",
             "display_name": "Artificial Intelligence through Simulated Evolution",
-            "relevance_score": 2825.437,
+            "relevance_score": 2822.1907,
             "publication_year": 1966,
             "publication_date": "1966-01-01",
             "ids": {
@@ -5211,7 +5211,7 @@
             "doi": "https://doi.org/10.1016/c2013-0-07691-8",
             "title": "The Handbook of Artificial Intelligence",
             "display_name": "The Handbook of Artificial Intelligence",
-            "relevance_score": 2819.0193,
+            "relevance_score": 2816.3596,
             "publication_year": 1982,
             "publication_date": "1982-01-01",
             "ids": {
@@ -5500,9 +5500,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.85,
-                    "id": "https://metadata.un.org/sdg/4"
+                    "display_name": "Quality education"
                 }
             ],
             "grants": [],
@@ -5733,7 +5733,7 @@
             "doi": "https://doi.org/10.1038/s41591-018-0300-7",
             "title": "High-performance medicine: the convergence of human and artificial intelligence",
             "display_name": "High-performance medicine: the convergence of human and artificial intelligence",
-            "relevance_score": 2815.2734,
+            "relevance_score": 2812.1895,
             "publication_year": 2018,
             "publication_date": "2018-12-28",
             "ids": {
@@ -6213,9 +6213,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "display_name": "Decent work and economic growth",
+                    "id": "https://metadata.un.org/sdg/8",
                     "score": 0.65,
-                    "id": "https://metadata.un.org/sdg/8"
+                    "display_name": "Decent work and economic growth"
                 }
             ],
             "grants": [],
@@ -6456,7 +6456,7 @@
             "doi": "https://doi.org/10.1016/b978-0-934613-03-3.50033-7",
             "title": "Some Philosophical Problems from the Standpoint of Artificial Intelligence",
             "display_name": "Some Philosophical Problems from the Standpoint of Artificial Intelligence",
-            "relevance_score": 2772.6633,
+            "relevance_score": 2769.8816,
             "publication_year": 1981,
             "publication_date": "1981-01-01",
             "ids": {
@@ -6837,9 +6837,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.43,
-                    "id": "https://metadata.un.org/sdg/4"
+                    "display_name": "Quality education"
                 }
             ],
             "grants": [],
@@ -7695,7 +7695,7 @@
             "doi": "https://doi.org/10.1038/s41568-018-0016-5",
             "title": "Artificial intelligence in radiology",
             "display_name": "Artificial intelligence in radiology",
-            "relevance_score": 2759.8171,
+            "relevance_score": 2763.949,
             "publication_year": 2018,
             "publication_date": "2018-05-17",
             "ids": {
@@ -7976,7 +7976,7 @@
             "fwci": 36.735,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
-            "cited_by_count": 2460,
+            "cited_by_count": 2484,
             "citation_normalized_percentile": {
                 "value": 0.998724,
                 "is_in_top_1_percent": true,
@@ -9037,34 +9037,34 @@
             "counts_by_year": [
                 {
                     "year": 2024,
-                    "cited_by_count": 455
+                    "cited_by_count": 485
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 588
+                    "cited_by_count": 605
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 481
+                    "cited_by_count": 479
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 458
+                    "cited_by_count": 455
                 },
                 {
                     "year": 2020,
-                    "cited_by_count": 297
+                    "cited_by_count": 315
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 111
+                    "cited_by_count": 129
                 },
                 {
                     "year": 2018,
-                    "cited_by_count": 10
+                    "cited_by_count": 14
                 }
             ],
-            "updated_date": "2024-09-18T22:13:38.555471",
+            "updated_date": "2024-10-02T19:54:58.639610",
             "created_date": "2018-06-01"
         },
         {
@@ -9072,7 +9072,7 @@
             "doi": null,
             "title": "Machine Learning: An Artificial Intelligence Approach",
             "display_name": "Machine Learning: An Artificial Intelligence Approach",
-            "relevance_score": 2667.373,
+            "relevance_score": 2666.8115,
             "publication_year": 2013,
             "publication_date": "2013-10-03",
             "ids": {
@@ -9416,7 +9416,7 @@
             "doi": null,
             "title": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
             "display_name": "Multi-Agent Systems: An Introduction to Distributed Artificial Intelligence",
-            "relevance_score": 2666.3118,
+            "relevance_score": 2664.8738,
             "publication_year": 1999,
             "publication_date": "1999-02-01",
             "ids": {
@@ -9687,9 +9687,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.64,
-                    "id": "https://metadata.un.org/sdg/4"
+                    "display_name": "Quality education"
                 }
             ],
             "grants": [],
@@ -10025,7 +10025,7 @@
             "doi": null,
             "title": "Artificial Intelligence: A Guide to Intelligent Systems",
             "display_name": "Artificial Intelligence: A Guide to Intelligent Systems",
-            "relevance_score": 2620.876,
+            "relevance_score": 2621.5999,
             "publication_year": 2001,
             "publication_date": "2001-01-01",
             "ids": {
@@ -10288,9 +10288,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4",
                     "score": 0.53,
-                    "id": "https://metadata.un.org/sdg/4"
+                    "display_name": "Quality education"
                 }
             ],
             "grants": [],
@@ -10821,7 +10821,7 @@
             "doi": "https://doi.org/10.1136/svn-2017-000101",
             "title": "Artificial intelligence in healthcare: past, present and future",
             "display_name": "Artificial intelligence in healthcare: past, present and future",
-            "relevance_score": 2594.6008,
+            "relevance_score": 2592.0044,
             "publication_year": 2017,
             "publication_date": "2017-06-21",
             "ids": {
@@ -12434,7 +12434,7 @@
             "doi": "https://doi.org/10.1016/0004-3702(80)90026-0",
             "title": "Principles of artificial intelligence",
             "display_name": "Principles of artificial intelligence",
-            "relevance_score": 2575.459,
+            "relevance_score": 2573.9128,
             "publication_year": 1980,
             "publication_date": "1980-11-01",
             "ids": {
@@ -12747,7 +12747,7 @@
             "doi": "https://doi.org/10.1016/j.inffus.2019.12.012",
             "title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
             "display_name": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
-            "relevance_score": 2552.4092,
+            "relevance_score": 2548.0396,
             "publication_year": 2019,
             "publication_date": "2019-12-26",
             "ids": {
@@ -13652,9 +13652,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "display_name": "Partnerships for the goals",
+                    "id": "https://metadata.un.org/sdg/17",
                     "score": 0.42,
-                    "id": "https://metadata.un.org/sdg/17"
+                    "display_name": "Partnerships for the goals"
                 }
             ],
             "grants": [
@@ -15030,7 +15030,7 @@
             "doi": "https://doi.org/10.1016/j.artint.2018.07.007",
             "title": "Explanation in artificial intelligence: Insights from the social sciences",
             "display_name": "Explanation in artificial intelligence: Insights from the social sciences",
-            "relevance_score": 2528.2246,
+            "relevance_score": 2547.9639,
             "publication_year": 2018,
             "publication_date": "2018-10-27",
             "ids": {
@@ -15137,7 +15137,7 @@
             "apc_paid": null,
             "fwci": 279.723,
             "has_fulltext": false,
-            "cited_by_count": 3156,
+            "cited_by_count": 3214,
             "citation_normalized_percentile": {
                 "value": 0.999972,
                 "is_in_top_1_percent": true,
@@ -16139,42 +16139,42 @@
             "counts_by_year": [
                 {
                     "year": 2024,
-                    "cited_by_count": 437
+                    "cited_by_count": 484
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 723
+                    "cited_by_count": 733
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 613
+                    "cited_by_count": 637
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 661
+                    "cited_by_count": 702
                 },
                 {
                     "year": 2020,
-                    "cited_by_count": 401
+                    "cited_by_count": 425
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 192
+                    "cited_by_count": 202
                 },
                 {
                     "year": 2018,
-                    "cited_by_count": 22
+                    "cited_by_count": 23
                 },
                 {
                     "year": 2017,
-                    "cited_by_count": 3
+                    "cited_by_count": 4
                 },
                 {
                     "year": 2012,
                     "cited_by_count": 2
                 }
             ],
-            "updated_date": "2024-09-18T15:41:12.381438",
+            "updated_date": "2024-10-02T09:09:28.791484",
             "created_date": "2019-07-30"
         },
         {
@@ -16182,7 +16182,7 @@
             "doi": "https://doi.org/10.1017/s0140525x0002063x",
             "title": "On artificial intelligence",
             "display_name": "On artificial intelligence",
-            "relevance_score": 2519.3325,
+            "relevance_score": 2518.1624,
             "publication_year": 1985,
             "publication_date": "1985-07-01",
             "ids": {
@@ -16917,7 +16917,7 @@
             "doi": "https://doi.org/10.1109/access.2018.2870052",
             "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
             "display_name": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-            "relevance_score": 2495.1223,
+            "relevance_score": 2507.1116,
             "publication_year": 2018,
             "publication_date": "2018-01-01",
             "ids": {
@@ -17079,7 +17079,7 @@
             },
             "fwci": 223.81,
             "has_fulltext": false,
-            "cited_by_count": 3676,
+            "cited_by_count": 3720,
             "citation_normalized_percentile": {
                 "value": 0.99997,
                 "is_in_top_1_percent": true,
@@ -18007,38 +18007,38 @@
             "counts_by_year": [
                 {
                     "year": 2024,
-                    "cited_by_count": 610
+                    "cited_by_count": 666
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 882
+                    "cited_by_count": 872
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 837
+                    "cited_by_count": 852
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 768
+                    "cited_by_count": 808
                 },
                 {
                     "year": 2020,
-                    "cited_by_count": 385
+                    "cited_by_count": 412
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 92
+                    "cited_by_count": 100
                 },
                 {
                     "year": 2018,
-                    "cited_by_count": 2
+                    "cited_by_count": 3
                 },
                 {
                     "year": 2012,
-                    "cited_by_count": 1
+                    "cited_by_count": 2
                 }
             ],
-            "updated_date": "2024-09-18T17:22:52.811746",
+            "updated_date": "2024-10-02T11:31:19.894726",
             "created_date": "2018-09-27"
         },
         {
@@ -18046,7 +18046,7 @@
             "doi": "https://doi.org/10.1016/c2013-0-12606-2",
             "title": "Uncertainty in Artificial Intelligence",
             "display_name": "Uncertainty in Artificial Intelligence",
-            "relevance_score": 2446.588,
+            "relevance_score": 2441.3677,
             "publication_year": 1992,
             "publication_date": "1992-01-01",
             "ids": {
@@ -18169,7 +18169,7 @@
             "apc_paid": null,
             "fwci": 10.919,
             "has_fulltext": false,
-            "cited_by_count": 1610,
+            "cited_by_count": 1607,
             "citation_normalized_percentile": {
                 "value": 0.997672,
                 "is_in_top_1_percent": true,
@@ -19206,15 +19206,15 @@
             "counts_by_year": [
                 {
                     "year": 2024,
-                    "cited_by_count": 25
+                    "cited_by_count": 10
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 28
+                    "cited_by_count": 38
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 27
+                    "cited_by_count": 26
                 },
                 {
                     "year": 2021,
@@ -19222,23 +19222,23 @@
                 },
                 {
                     "year": 2020,
-                    "cited_by_count": 15
-                },
-                {
-                    "year": 2019,
-                    "cited_by_count": 9
-                },
-                {
-                    "year": 2018,
                     "cited_by_count": 13
                 },
                 {
+                    "year": 2019,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 9
+                },
+                {
                     "year": 2017,
-                    "cited_by_count": 14
+                    "cited_by_count": 13
                 },
                 {
                     "year": 2016,
-                    "cited_by_count": 11
+                    "cited_by_count": 12
                 },
                 {
                     "year": 2015,
@@ -19246,18 +19246,18 @@
                 },
                 {
                     "year": 2014,
-                    "cited_by_count": 47
+                    "cited_by_count": 43
                 },
                 {
                     "year": 2013,
-                    "cited_by_count": 65
+                    "cited_by_count": 68
                 },
                 {
                     "year": 2012,
-                    "cited_by_count": 62
+                    "cited_by_count": 52
                 }
             ],
-            "updated_date": "2024-09-18T19:34:59.293649",
+            "updated_date": "2024-10-02T15:27:20.336604",
             "created_date": "2016-06-24"
         },
         {
@@ -19265,7 +19265,7 @@
             "doi": "https://doi.org/10.1177/1094670517752459",
             "title": "Artificial Intelligence in Service",
             "display_name": "Artificial Intelligence in Service",
-            "relevance_score": 2415.5193,
+            "relevance_score": 2408.1956,
             "publication_year": 2018,
             "publication_date": "2018-02-05",
             "ids": {
@@ -19663,9 +19663,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "display_name": "Decent work and economic growth",
+                    "id": "https://metadata.un.org/sdg/8",
                     "score": 0.57,
-                    "id": "https://metadata.un.org/sdg/8"
+                    "display_name": "Decent work and economic growth"
                 }
             ],
             "grants": [
@@ -20306,7 +20306,7 @@
             "doi": "https://doi.org/10.7861/futurehosp.6-2-94",
             "title": "The potential for artificial intelligence in healthcare",
             "display_name": "The potential for artificial intelligence in healthcare",
-            "relevance_score": 2371.8403,
+            "relevance_score": 2394.2788,
             "publication_year": 2019,
             "publication_date": "2019-06-01",
             "ids": {
@@ -20445,7 +20445,7 @@
             "fwci": 59.098,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 2174,
+            "cited_by_count": 2210,
             "citation_normalized_percentile": {
                 "value": 0.997211,
                 "is_in_top_1_percent": true,
@@ -20466,7 +20466,7 @@
             "primary_topic": {
                 "id": "https://openalex.org/T11636",
                 "display_name": "Artificial Intelligence in Medicine",
-                "score": 0.9989,
+                "score": 0.9992,
                 "subfield": {
                     "id": "https://openalex.org/subfields/2718",
                     "display_name": "Health Informatics"
@@ -20484,7 +20484,7 @@
                 {
                     "id": "https://openalex.org/T11636",
                     "display_name": "Artificial Intelligence in Medicine",
-                    "score": 0.9989,
+                    "score": 0.9992,
                     "subfield": {
                         "id": "https://openalex.org/subfields/2718",
                         "display_name": "Health Informatics"
@@ -20518,7 +20518,7 @@
                 {
                     "id": "https://openalex.org/T11396",
                     "display_name": "Machine Learning in Healthcare and Medicine",
-                    "score": 0.9888,
+                    "score": 0.9899,
                     "subfield": {
                         "id": "https://openalex.org/subfields/3605",
                         "display_name": "Health Information Management"
@@ -20538,11 +20538,6 @@
                     "id": "https://openalex.org/keywords/artificial-intelligences",
                     "display_name": "Artificial Intelligences",
                     "score": 0.472636
-                },
-                {
-                    "id": "https://openalex.org/keywords/healthcare-industry",
-                    "display_name": "Healthcare industry",
-                    "score": 0.4676404
                 }
             ],
             "concepts": [
@@ -20551,98 +20546,91 @@
                     "wikidata": "https://www.wikidata.org/wiki/Q31207",
                     "display_name": "Health care",
                     "level": 2,
-                    "score": 0.7566574
+                    "score": 0.7689466
                 },
                 {
                     "id": "https://openalex.org/C26517878",
                     "wikidata": "https://www.wikidata.org/wiki/Q228039",
                     "display_name": "Key (lock)",
                     "level": 2,
-                    "score": 0.557036
-                },
-                {
-                    "id": "https://openalex.org/C9652623",
-                    "wikidata": "https://www.wikidata.org/wiki/Q190109",
-                    "display_name": "Field (mathematics)",
-                    "level": 2,
-                    "score": 0.47758603
-                },
-                {
-                    "id": "https://openalex.org/C115901376",
-                    "wikidata": "https://www.wikidata.org/wiki/Q184199",
-                    "display_name": "Automation",
-                    "level": 2,
-                    "score": 0.47408473
-                },
-                {
-                    "id": "https://openalex.org/C2778755073",
-                    "wikidata": "https://www.wikidata.org/wiki/Q10858537",
-                    "display_name": "Scale (ratio)",
-                    "level": 2,
-                    "score": 0.4701683
-                },
-                {
-                    "id": "https://openalex.org/C2989086416",
-                    "wikidata": "https://www.wikidata.org/wiki/Q15067276",
-                    "display_name": "Healthcare industry",
-                    "level": 3,
-                    "score": 0.4676404
+                    "score": 0.5363108
                 },
                 {
                     "id": "https://openalex.org/C41008148",
                     "wikidata": "https://www.wikidata.org/wiki/Q21198",
                     "display_name": "Computer science",
                     "level": 0,
-                    "score": 0.42932004
-                },
-                {
-                    "id": "https://openalex.org/C157170001",
-                    "wikidata": "https://www.wikidata.org/wiki/Q4781507",
-                    "display_name": "Applications of artificial intelligence",
-                    "level": 2,
-                    "score": 0.4289009
-                },
-                {
-                    "id": "https://openalex.org/C56739046",
-                    "wikidata": "https://www.wikidata.org/wiki/Q192060",
-                    "display_name": "Knowledge management",
-                    "level": 1,
-                    "score": 0.42211494
-                },
-                {
-                    "id": "https://openalex.org/C2522767166",
-                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
-                    "display_name": "Data science",
-                    "level": 1,
-                    "score": 0.41472685
+                    "score": 0.48084983
                 },
                 {
                     "id": "https://openalex.org/C154945302",
                     "wikidata": "https://www.wikidata.org/wiki/Q11660",
                     "display_name": "Artificial intelligence",
                     "level": 1,
-                    "score": 0.39045817
+                    "score": 0.45572653
+                },
+                {
+                    "id": "https://openalex.org/C9652623",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190109",
+                    "display_name": "Field (mathematics)",
+                    "level": 2,
+                    "score": 0.45498648
+                },
+                {
+                    "id": "https://openalex.org/C2522767166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+                    "display_name": "Data science",
+                    "level": 1,
+                    "score": 0.44344956
+                },
+                {
+                    "id": "https://openalex.org/C115901376",
+                    "wikidata": "https://www.wikidata.org/wiki/Q184199",
+                    "display_name": "Automation",
+                    "level": 2,
+                    "score": 0.43603355
+                },
+                {
+                    "id": "https://openalex.org/C157170001",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4781507",
+                    "display_name": "Applications of artificial intelligence",
+                    "level": 2,
+                    "score": 0.43565908
+                },
+                {
+                    "id": "https://openalex.org/C2778755073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+                    "display_name": "Scale (ratio)",
+                    "level": 2,
+                    "score": 0.43202665
+                },
+                {
+                    "id": "https://openalex.org/C56739046",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192060",
+                    "display_name": "Knowledge management",
+                    "level": 1,
+                    "score": 0.39620185
                 },
                 {
                     "id": "https://openalex.org/C127413603",
                     "wikidata": "https://www.wikidata.org/wiki/Q11023",
                     "display_name": "Engineering",
                     "level": 0,
-                    "score": 0.17735481
-                },
-                {
-                    "id": "https://openalex.org/C38652104",
-                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
-                    "display_name": "Computer security",
-                    "level": 1,
-                    "score": 0.13564089
+                    "score": 0.12357047
                 },
                 {
                     "id": "https://openalex.org/C17744445",
                     "wikidata": "https://www.wikidata.org/wiki/Q36442",
                     "display_name": "Political science",
                     "level": 0,
-                    "score": 0.12796655
+                    "score": 0.11093858
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.10916147
                 },
                 {
                     "id": "https://openalex.org/C78519656",
@@ -20659,20 +20647,6 @@
                     "score": 0.0
                 },
                 {
-                    "id": "https://openalex.org/C33923547",
-                    "wikidata": "https://www.wikidata.org/wiki/Q395",
-                    "display_name": "Mathematics",
-                    "level": 0,
-                    "score": 0.0
-                },
-                {
-                    "id": "https://openalex.org/C62520636",
-                    "wikidata": "https://www.wikidata.org/wiki/Q944",
-                    "display_name": "Quantum mechanics",
-                    "level": 1,
-                    "score": 0.0
-                },
-                {
                     "id": "https://openalex.org/C202444582",
                     "wikidata": "https://www.wikidata.org/wiki/Q837863",
                     "display_name": "Pure mathematics",
@@ -20685,10 +20659,24 @@
                     "display_name": "Law",
                     "level": 1,
                     "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
                 }
             ],
             "mesh": [],
-            "locations_count": 4,
+            "locations_count": 5,
             "locations": [
                 {
                     "is_oa": true,
@@ -20720,6 +20708,17 @@
                     "version": "publishedVersion",
                     "is_accepted": true,
                     "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal.science/hal-04711161",
+                    "pdf_url": "https://hal.science/hal-04711161/document",
+                    "source": null,
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
                 },
                 {
                     "is_oa": true,
@@ -20859,15 +20858,15 @@
                 "https://openalex.org/W3098949126"
             ],
             "related_works": [
-                "https://openalex.org/W84108837",
+                "https://openalex.org/W4388475966",
+                "https://openalex.org/W4387847439",
                 "https://openalex.org/W4385782821",
                 "https://openalex.org/W4376622588",
-                "https://openalex.org/W4253249845",
+                "https://openalex.org/W3172364222",
+                "https://openalex.org/W3165757319",
+                "https://openalex.org/W2952366985",
                 "https://openalex.org/W2948169060",
-                "https://openalex.org/W2730112582",
                 "https://openalex.org/W2519676117",
-                "https://openalex.org/W2218202131",
-                "https://openalex.org/W2155740880",
                 "https://openalex.org/W2140798747"
             ],
             "abstract_inverted_index": {
@@ -21132,30 +21131,30 @@
             "counts_by_year": [
                 {
                     "year": 2024,
-                    "cited_by_count": 556
+                    "cited_by_count": 619
                 },
                 {
                     "year": 2023,
-                    "cited_by_count": 712
+                    "cited_by_count": 719
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 398
+                    "cited_by_count": 413
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 311
+                    "cited_by_count": 331
                 },
                 {
                     "year": 2020,
-                    "cited_by_count": 112
+                    "cited_by_count": 122
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 3
+                    "cited_by_count": 4
                 }
             ],
-            "updated_date": "2024-09-18T14:53:47.575285",
+            "updated_date": "2024-10-02T04:08:51.034891",
             "created_date": "2019-07-12"
         }
     ],
